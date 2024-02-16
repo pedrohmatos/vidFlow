@@ -6,7 +6,7 @@ O VidFlow é uma plataforma de compartilhamento de vídeos.
 
 - [Design do Projeto](#design-do-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Rodar o projeto localmente](#rodar-o-projeto)
+- [Abrir projeto](#rodar-o-projeto)
 
 ## Design do Projeto
 
@@ -22,7 +22,12 @@ Visão desktop
 - Os pacotes ESLint, JSON Server, Axios e Vite
 - HTML, CSS e JavaScript
 
-## Rodar o projeto
+## Abrir Projeto
+
+[Link demonstração](https://vidflow-videos.netlify.app/)
+Clique no link acima para acessar a aplicação.
+
+## Rodar o projeto na sua máquina
 
 Após baixar ou clonar o projeto deste repositório, você precisa ter o [Node.js](https://nodejs.org/) instalado.
 
