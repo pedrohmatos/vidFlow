@@ -6,7 +6,8 @@ O VidFlow é uma plataforma de compartilhamento de vídeos.
 
 - [Design do Projeto](#design-do-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Abrir projeto](#rodar-o-projeto)
+- [Abrir projeto](#abrir-projeto)
+- [Para outros programadores](#rodar-o-projeto-na-sua-máquina)
 
 ## Design do Projeto
 
