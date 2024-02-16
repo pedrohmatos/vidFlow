@@ -23,9 +23,9 @@ Visão desktop
 - Os pacotes ESLint, JSON Server, Axios e Vite
 - HTML, CSS e JavaScript
 
-## Abrir Projeto
+<h2>Abrir Projeto</h2>
 
-[Link demonstração](https://vidflow-videos.netlify.app/)
+&#x1F449; [Link demonstração](https://vidflow-videos.netlify.app/) &#x1F448;  
 Clique no link acima para acessar a aplicação.
 
 ## Rodar o projeto na sua máquina
