@@ -1,0 +1,21 @@
+{
+  "name": "vidflow",
+  "private": true,
+  "version": "0.0.0",
+  "author": "pedro matos",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "api-local": "json-server ./backend/videos.json"
+  },
+  "devDependencies": {
+    "vite": "^5.1.0",
+    "eslint": "8.56.0",
+    "json-server": "1.0.0-alpha.23"
+  },
+  "dependencies": {
+    "axios": "1.6.0"
+  }
+}
